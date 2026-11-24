@@ -2,7 +2,6 @@
 
 An end-to-end customer shopping behavior analysis project using **Python, PostgreSQL, SQL, and Power BI**. The project explores 3,900 purchase records to understand customer demographics, product preferences, spending patterns, discounts, shipping choices, and subscription behavior.
 
-> **Learning-project attribution:** This repository is based on the YouTube tutorial and project materials by [Amlan Mohanty](https://www.youtube.com/@amlanmohanty1). The original project repository is [customer-trends-data-analysis-SQL-Python-PowerBI](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI). This copy is maintained as a learning and portfolio exercise. Credit for the original tutorial and project structure belongs to the creator.
 
 ## Business problem
 
@@ -124,9 +123,9 @@ These are findings reported in the supplied project presentation. Re-run the not
 
 This project provides practice with data cleaning, missing-value treatment, feature engineering, exploratory data analysis, SQL aggregations, subqueries, common table expressions (CTEs), window functions, customer segmentation, and Power BI dashboard interpretation.
 
-## License and credit
+## Learning note
 
-The `LICENSE` file is included from the source project. Please review its terms and the original creator's repository before redistributing or reusing project materials. Tutorial, source-project, and asset credit belongs to the original creator.
+This is a learning project based on publicly available educational resources. The included license and original source materials should be reviewed before redistribution.
 
 ---
 
